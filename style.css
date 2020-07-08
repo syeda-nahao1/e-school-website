@@ -1,0 +1,96 @@
+#color{
+    background-color: #ECFFF1;
+    background: #ECFFF1;
+}
+.logo{
+    width: 170px;
+}
+
+li a{
+    margin: 0px; 
+}
+
+.btn{
+    border: none;
+    border-radius: 20px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+p{
+    margin-top: 30px;
+}
+
+h1{
+    font-weight: bold;
+}
+
+.img-top {
+	width: 60px;
+    margin-left: 46px;
+    padding: 0px;
+}
+
+.card-deck{
+    justify-content: center;
+}
+.card-deck{
+    list-style: none;
+
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px whitesmoke;
+}
+.cat-title {
+	width: 148px;
+	padding: 0px 0px;
+}
+
+.icon-img{
+    width: 20px;
+}
+
+h1.Headline{
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+footer .container-fluid{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.Footer-headlink{
+    margin-left: 58px;
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+    margin-left: 20px;
+    
+}
+
+ul li a{
+    color: blanchedalmond;
+}
+
+ul li a:hover{
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+hr{
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 1px;
+    margin: 10px 60px;
+
+
+
+}
